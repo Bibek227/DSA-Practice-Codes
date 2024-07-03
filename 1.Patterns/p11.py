@@ -8,3 +8,11 @@ for i in range(0,7):
         print(start,end="")
         start=1-start
     print()
+
+
+# 0
+# 10
+# 010
+# 1010
+# 01010
+# 101010
